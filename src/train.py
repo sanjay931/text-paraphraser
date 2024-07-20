@@ -228,3 +228,18 @@ def load_data(csv_path):
     except Exception as e:
         print(f"Error loading data: {e}")
         return [], []
+
+"""Start of training"""
+
+csv_path = './data/chatgpt_paraphrases.csv'
+inputs, outputs = load_data(csv_path)
+print(inputs[:5])
+print(outputs[:5])
+train_inputs = inputs[:1000]
+train_outputs = outputs[:1000]
+val_inputs = inputs[:50]
+val_outputs = outputs[:50]
+
+model = ParaphraseModel()
+model.train(train_inputs, train_outputs, val_inputs, val_outputs)
+model.save_model('./trained_model')
