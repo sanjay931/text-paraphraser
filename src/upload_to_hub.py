@@ -19,6 +19,7 @@ api.upload_folder(
     folder_path=MODEL_DIR,
     repo_id=REPO_NAME,
     repo_type="model",
+    token=HUGGINGFACE_TOKEN
 
 )
 print(f"Model uploaded to {REPO_URL}")
