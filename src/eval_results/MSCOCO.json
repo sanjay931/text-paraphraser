@@ -1,6 +1,6 @@
 [
     {
-        "references": [
+        "reference": [
             "A man with a red helmet on a small moped on a dirt road. ",
             "Man riding a motor bike on a dirt road on the countryside.",
             "A man riding on the back of a motorcycle.",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young girl inhales with the intent of blowing out a candle. ",
             "A young girl is preparing to blow out her candle.",
             "A kid is to blow out the single candle in a bowl of birthday goodness. ",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man on a bicycle riding next to a train",
             "A person is riding a bicycle but there is a train in the background.",
             "a red and white train and a man riding a bicycle",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kitchen is shown with a variety of items on the counters.",
             "A kitchen has the windows open and plaid curtains.",
             "A kitchen with two windows and two metal sinks.",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A wooden ball on top of a wooden stick.",
             "The table is full of wooden spoons and utensils.",
             "A wood table holding an assortment of wood cooking utensils.",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Multiple wooden spoons are shown on a table top.",
             "A table surrounded by chairs and filled with cooking utensils.",
             "Wooden spoons laid out across a kitchen table.",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom that has a broken wall in the shower.",
             "A bathroom looks clean but is missing tile at the shower stall.",
             "A view of a bathroom that needs to be fixed up.",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with an enclosed shower next to a sink and a toilet.",
             "A clean, spacious bathroom with a large shower stall.",
             "There are a toilet, a sink, and a shower stall in a large bathroom.",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "people on bicycles ride down a busy street ",
             "A group of people are riding bikes down the street in a bike lane",
             "bike riders passing Burger King in city street",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The bathroom is clean and ready to be used. ",
             "a small bathroom with a sink and a toilet.",
             "A toilet, sink and mirror in the bathroom",
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A clean bathroom is seen in this image.",
             "A bathroom with a white toilet and large shelf full of stuff.",
             "some shelves filled with a bunch of different items in the bathroom\n",
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young man wearing black attire and a flowered tie is standing and smiling.",
             "A man with glasses and his eyes closed dressed in a black shirt and a necktie.",
             "A man in a green tie with his eyes closed.",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Black and white photograph of two men on motorcycles.",
             "Two people riding a motorcycle with hats and backpack down a street.",
             "Two men are at an intersection on motorcycles.",
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A row of motorcycles parked in front of a building.",
             "A bunch of motorcycles parked on the side of the road",
             "a back ally neighborhood with motor bikes in a row",
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A fluffy white chair that faces away fro a television.",
             "A pillow covered reading chair in the corner of the living room",
             "The living room is empty with the television on. ",
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A painting of a table with fruit on top of it.",
             "Painting of oranges, a bowl, candle, and a pitcher",
             "a painting of fruit and a candle with a vase",
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Vegetables are displayed in a wooden barrel outdoors.",
             "A bunch of bananas are sitting on the stand.",
             "The cart has bananas or plantains piled on it. ",
@@ -272,7 +272,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A motorbike sitting in front of a wine display case",
             "A motor bike and some wine in a room.",
             "A dirt bike sitting on a counter by some wine bottles.",
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large jetliner sitting on top of an airport runway.",
             "Airline employees by an aircraft parked at the gate",
             "The plane is parked at the gate at the airport terminal.",
@@ -304,7 +304,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An airport filled with planes sitting on tarmacs.",
             "The view of runway from behind the windows of airport.",
             "a truck driving towards some planes parked on the runway",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small blue plane sitting on top of a field.",
             "an E2 airplane painted blue with black and white stripes ",
             "An old warplane is on display in a field.  ",
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A motorcycle sits parked across from a herd of livestock.",
             "A motorbike, people and sheep in the background",
             "A motorcycle parked on top of a sandy beach.",
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large white dog is sitting on a bench beside an elderly man.",
             "A large white dog sits on a bench with people next to a path.",
             "A large dog sits just his bottom on a park bench.",
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of traffic lights sitting under a cloudy sky.",
             "a street light has the red lights glowing",
             "The traffic lights are clearly visible for all of us to see. ",
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An eating area with a table and a few chairs.",
             "Table situated in corner of room with a vase for a center piece",
             "A wooden table sitting below a bunch of windows.",
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little girl in a pink shirt standing near a blue metal sculpture.",
             "People are standing outside in a busy city street.",
             "Woman taking a picture of someone standing behind a sculpture and a child pushing another woman towards the sculpture. ",
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A herd of sheep standing on top of snow covered field.",
             "Several sheep grazing in a field of tall grass in front of a building.",
             "Group of sheep and mountain out front of old house.",
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A flock of small birds flying in the sky over the water.",
             "Several birds that are flying together over a body of water.",
             "A flock of birds flying over a field.",
@@ -448,7 +448,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A swan is floating down the river by the boat.",
             "A boat with flags and tents is docked next to a grassy bank.",
             "A boat that is decorated with flags on the water. ",
@@ -464,7 +464,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe grazing on a tree in the wilderness with other wildlife",
             "Several giraffes eating leaves from the ground and tree.",
             "Two giraffes and another animal in a field.",
@@ -480,7 +480,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "there are blue lights shining threw palm trees ",
             "A fire hydrant pouring water from it with a neon blue glow to it.",
             "Reflections of light streaming thru a building window at night.",
@@ -496,7 +496,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bird in a pot eating a fruit.",
             "a black bird is eating an apple in a pot of dirt",
             "there is a black bird standing in a flower pot eating an apple",
@@ -512,7 +512,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A tall massive clock tower towering over a city.",
             "A couple of street signs hanging on a pole",
             "An old black and white photo of Pennsylvania Avenue.",
@@ -528,7 +528,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two ducks floating together on a body of water. ",
             "Two ducks are swimming in the green colored pond.",
             "Two Canadian geese swim in a green pond.",
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large wooden pole with a green street sign hanging from it.",
             "street signs on the corner of Gladys and Detroit",
             "The signs give the street names and show where to park.",
@@ -560,7 +560,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a ram is looking at the camera and standing on some grass",
             "A large sheep bends his head towards some grass",
             "A very large sheep is standing in the grass.",
@@ -576,7 +576,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man with a snowboard next to a man with a mask.",
             "Man with snowboard standing next to another wearing a mask and crazy hands.",
             "A man holding a snowboard next to a man in scary costume.",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Many different signs cover a post next to a bus stop.",
             "A bus stop with advertising signs attached to a pole nearby.",
             "Street signs clutter a pole on an empty street.",
@@ -608,7 +608,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A cow standing near a curb in front of a store. ",
             "There is a cow on the sidewalk standing in front of a door. ",
             "A cow on the sidewalk on a corner in front of a store ",
@@ -624,7 +624,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The animal is standing by the booth at the event.",
             "A brown cow standing next to a store with lots of water.",
             "A cow is standing in front of a shop.",
@@ -640,7 +640,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a cat that is eating some kind of banana",
             "A person feeding a cat with a banana",
             "A house cat is taking a bite from a banana.",
@@ -656,7 +656,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A gray tiger cat sitting at a wooden table on a chair.",
             "A grey cat sitting in chair next to a table.",
             "A cat sitting in a chair pulled up to a table.",
@@ -672,7 +672,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "two cows outside one laying down and the other standing near a building ",
             "The white scared cow in a Tibetan city.",
             "A cow standing in a grassy open field.",
@@ -688,7 +688,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two cows grazing on grass in a field by a house.",
             "A white faced cow stands in the tall grass.",
             "Cows standing in a grassy meadow in front of a house.",
@@ -704,7 +704,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An image of a very cute girl with face piercings.",
             "Painting of girl that has multiple piercings on face",
             "A young brunette woman with multiple face piercings.",
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Several elephants are in a habitat as heads are in the foreground.",
             "A small gray elephant  standing in an exhibit at a zoo.",
             "People are watching four elephants in a zoo.",
@@ -736,7 +736,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An elephant standing under the shade of a tree.",
             "An elephant standing in the middle of a rocky environment.",
             "An elephant is alone in a wooded enclosure.",
@@ -752,7 +752,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two kayaks, one pink the other yellow, on bank of water. ",
             "Two kayaks rest on the shore of a body of water.",
             "Two kayaks sitting on the shore of a body of water.",
@@ -768,7 +768,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A blue boat docked on a green lush shore.",
             "A  small marina with boats docked there",
             "a group of boats sitting together with no one around",
@@ -784,7 +784,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An elephant and a rhinoceros stand not far from each other.",
             "A rhino is near an elephant near a water hold in the forest.",
             "An elephant and a rhinoceros share a field with a pond.",
@@ -800,7 +800,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman embracing a child carrying a bag of luggage.",
             "Woman hugging a small girl with green and blue luggage. ",
             "A woman hugging a girl who is holding a suitcase.",
@@ -816,7 +816,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pinup-style photo of a woman sitting on a luggage trunk.",
             "A women is waiting while sitting on a large trunk",
             "a woman shades her eyes while sitting on a chest ",
@@ -832,7 +832,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman sitting on a piece of luggage in a field.",
             "a woman sits on a brief case in the woods ",
             "A girl with a lot of tattoos sitting on a a piece of luggage.",
@@ -848,7 +848,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Young boy sitting on top of a briefcase",
             "A young baby sits on top of a briefcase.",
             "A little boy sitting on a suitcase on the floor.",
@@ -864,7 +864,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A golden retriever laying down on the side of a pool.",
             "A large brown dog laying next to a blue pool.",
             "A golden retriever sleeps at the edge of the pool.",
@@ -880,7 +880,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two women walking side by side holding umbrellas.",
             "an image of two girls walking with umbrellas",
             "Two girls are each carrying an umbrella walking.",
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Shaggy dog gets dinner served on a plate.",
             "A small black dog standing over a plate of food.",
             "A small dog eating a plate of broccoli.  ",
@@ -912,7 +912,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A person on the beach next to the ocean. ",
             "there is a man that is running in the sand on a beach",
             "A man in a wetsuit running on the beach.",
@@ -928,7 +928,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a person and a dog are standing near some cliffs",
             "A person walks with a backpack being followed by a dog.",
             "A hiker and dogs are walking in a canyon.",
@@ -944,7 +944,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A close up of a zebra foraging on some grass",
             "A zebra grazing on long dry grass in a field.",
             "THERE IS A BLACK AND WHITE IMAGE OF A ZEBRA EATING GRASS",
@@ -960,7 +960,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A zebra is standing outside in the snow",
             "One zebra standing in snow near a stone wall.",
             "A zebra is standing in a snowy field.",
@@ -976,7 +976,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An antilope is eating grass in between two zebra.",
             "Several zebras eat the green grass in the pasture.",
             "Two zebras and another animal grazing in the grass.",
@@ -992,7 +992,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two zebras fighting in a cloud of dust",
             "Two zebras fighting in a open area with green bushes.",
             "Two zebras are battling each other on hind legs.",
@@ -1008,7 +1008,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Horse figurines next to walk on a table.",
             "A set of three different plastic horse figurines.",
             "Three different horse figurines are placed beside each other. ",
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing in front of a brown horse.",
             "A young woman in a leather coat about to pet a horse",
             "A woman is standing next to a black and white horse.",
@@ -1040,7 +1040,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man riding a horse with trees and buildings in background.",
             "A rider gallops on his horse in the grass.",
             "A horseback rider is somewhat in the background of the field. ",
@@ -1056,7 +1056,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man in black leading an all white horse",
             "Mythical character with white horse standing on grooved surface.",
             "A white horse with blue haunches stands next to an elegantly dressed, black-haired man holding a sword.",
@@ -1072,7 +1072,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A try with a banana and two oranges visible on it",
             "Banana and oranges on a lunch try next to bowls.",
             "a white tray with a banana and two tangerines and a plate and bowl",
@@ -1088,7 +1088,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of children playing baseball out side.",
             "Group of children with baseball gloves throwing balls back and forth.",
             "Some children are playing softball on a field.",
@@ -1104,7 +1104,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A person wearing a banana headdress and necklace",
             "A lady dressed in a blue and purple outfit wearing a hat made of fruit.",
             "A person wearing a hat made out of yellow bananas.",
@@ -1120,7 +1120,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man in hat made of bananas standing in room by men.",
             "A man wearing a colorful outfit and a hat made of bananas.",
             "A man that has bananas on his head and shoulders.",
@@ -1136,7 +1136,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A baseball player preparing to throw a pitch during a game.",
             "A man that is standing in the dirt with a glove.",
             "A baseball player lunges and reaches back with the ball.",
@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Several slices of bread with side salads on a table.",
             "A table with a plate of cut pizza, two plates of salad, and a can of soda.",
             "Three plates of food consisting of pizza, salads, rice and a can of cola",
@@ -1168,7 +1168,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man riding skis on top of a snow covered slope.",
             "An adult and child standing in the snow wearing jackets.",
             "A man and little girl are on skis in the snow.",
@@ -1184,7 +1184,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small boy holding a plate of tasty looking food.",
             "Boy holding bowl of ice cream sundae up",
             "A child holding up a red plate full of foo.",
@@ -1200,7 +1200,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A girl is skateboarding down the Hollywood walk of fame.",
             "A woman who is skateboarding down the street.",
             "A woman with glasses and a scarf skateboards along Hollywood's Walk of Fame.",
@@ -1216,7 +1216,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Youngster on a skateboard, trying simple tip up stunt.",
             "Young skateboarder displaying skills on sidewalk near field.",
             "A person on a skateboard on a street.",
@@ -1232,7 +1232,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two men on skateboards on  the pavement",
             "Two young skateboarders are skating near each other.",
             "Two young men riding skateboards on a sidewalk.",
@@ -1248,7 +1248,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two men riding snowboards in a snow storm down a slope.",
             "Two people are snowboarding down a hill fast",
             "Two men use their snowboards to go down a snowy incline.",
@@ -1264,7 +1264,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little girl posing for a picture while eating food.",
             "Little girl smiles for the camera as she eats her sandwich",
             "A young girl smiles while enjoying her meal.",
@@ -1280,7 +1280,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young boy holding a snow board and a pair of shoes.",
             "A boy is holding his shoes and a snowboard.",
             "A guy smiling, wearing a blue jacket, holding a snowboard. ",
@@ -1296,7 +1296,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Assortment of doughnuts and other snack items on a serving tray.",
             "there are many different sweets and donuts on display",
             "A display case at a bakery with different items. ",
@@ -1312,7 +1312,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little boy sitting on a wooden bench eating half a sandwich.",
             "a small boy with a green shirt is eating a sandwich",
             "A young boy sitting on a bench with a sandwich. ",
@@ -1328,7 +1328,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Muffins and other pastries on display ground and purchase",
             "a bunch of baked goods in a plastic shelf",
             "a bunch of pastries that are in a clear case",
@@ -1345,7 +1345,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A meal at a restaurant of a salad, a toasted sandwich and a pickle",
             "A plate of food containing a sandwich and a salad.",
             "A grilled cheese sandwich with a side of salad and a pickle",
@@ -1361,7 +1361,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A table with a coffee and a salad on it.",
             "A deli lunch for two on a table with drinks",
             "A sandwich wrapped in a bag, a to-go coffee cup and a drink sits on top of a white table.",
@@ -1377,7 +1377,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bunch of doughnuts with sprinkles on them",
             "Tray of chocolate donuts with sprinkles in a display case.",
             "Donuts on a tray in a display case ",
@@ -1393,7 +1393,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A basket ball player is posing in front of a basket.",
             "A uniformed boy is holding a basketball with his back to the hoop.",
             "A young man in a green jersey is holding a ball.",
@@ -1409,7 +1409,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing in a set suit on a beach holding a surfboard.",
             "Woman wearing all black holding up a white surfboard. ",
             "A female surfboarder dressed in black holding a white surfboard.",
@@ -1425,7 +1425,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man getting ready to kick a soccer ball.",
             "A man that is on a soccer field with a ball.",
             "A man carrying a soccer ball down a field.",
@@ -1441,7 +1441,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Young boy riding large breaking wave in open ocean.",
             "THIS IS A BLACK AND WHITE PHOTO OF A SURFER",
             "The surfer in the black and white photo is on a huge wave. ",
@@ -1457,7 +1457,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man kicking a soccer ball whle standing on a field.",
             "A man kicking a soccerball at a group of people on a field.",
             "A group of men are playing soccer on a field.",
@@ -1473,7 +1473,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing over a pan filled with food in a kitchen.",
             "A woman smiling while she prepares a plate of food. ",
             "a smiling woman standing next to a plate of food she made ",
@@ -1489,7 +1489,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A baby in plaid shirt eating a frosted cake.",
             "The young is enjoying his cake so much its all over him. ",
             "A toddler eats cake with his hands in his high chair.",
@@ -1505,7 +1505,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man instructing a group of kids on a soccer field.",
             "A soccer coach is instructing the children on the field.",
             "A group of young children standing around a field.",
@@ -1521,7 +1521,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Man sitting at a small table behind a pizza.",
             "A man sitting at a table with lots of food in front of him.",
             "Friends about to enjoy fresh pizza and coffee at a restaurant",
@@ -1537,7 +1537,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A picture of a young boy laying on top of a bed.",
             "Boy sleeping with no blanket in a large bed. ",
             "A young boy sleeping on the side of his bed.",
@@ -1553,7 +1553,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A picture of a recently married couple displayed behind glass.",
             "A photo of a man and his wife on a bed",
             "A picture of a couple that just got married lying in a bed.",
@@ -1569,7 +1569,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An Italian dish is presented on a white plate.",
             "Baked pizza with red tomatoes and green olives.",
             "A plate of food cut into slices has onions and olives on it.",
@@ -1585,7 +1585,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "the two racquets are close to being identical.",
             "a bunch of tennis rackets are tangles together ",
             "a couple of tennis rackets are laying together",
@@ -1601,7 +1601,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young girl eating a slice of pizza.",
             "A young girl with a green jacket eating a piece of pepperoni pizza.",
             "A girl takes a bite of her pepperoni pizza. ",
@@ -1617,7 +1617,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A  young woman holding a giant tennis racquet ",
             "A pretty young woman holding a giant tennis racquet.",
             "The girl is smiling, holding a gigantic tennis racket.",
@@ -1633,7 +1633,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A vegetarian pizza is half eaten on a pizza holder. ",
             "A couple of pieces of pizza with vegetable slices on them.",
             "A wooden pan serving tray with a pizza on it.",
@@ -1649,7 +1649,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A brown sofa and ottoman with pillows and remotes.",
             "A small oval orange couch and ottoman with pineapple pillows.",
             "A couch and ottoman are shown with remotes.",
@@ -1665,7 +1665,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A child leans into the camera brushing their teeth. ",
             "A young girl is lathered up with toothpaste.",
             "Young person brushing their teeth with lots of toothpaste",
@@ -1681,7 +1681,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A LITTLE ROOM AND DINING ROOM AREA WITH FURNITURE",
             " a living room with a big table next to a book shelf ",
             "A living room decorated with a modern theme. ",
@@ -1697,7 +1697,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of men sitting at desks with computers.",
             "A group of young men sitting at a computer desk.",
             "Four men of Middle Eastern descent are sitting in a computer lab and all are on a computer.",
@@ -1713,7 +1713,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The kite surfer is walking on the beach holding the kite.",
             "A man flying a kite over a sandy beach.",
             "A man flying a kite while walking on the beach. ",
@@ -1729,7 +1729,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man flying a blue kite in an open ground",
             "A man flying a kite on top of a grass covered field.",
             "A male flying a wing kite in an open field",
@@ -1745,7 +1745,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A dark skinned child getting ready to be pushed on a swing.",
             "A girl getting pushed in a child's swing.",
             "A man pushes a brightly smiling little girl on a swing.",
@@ -1761,7 +1761,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kite flying through a  blue sky with a long tail.",
             "A colorful kite is flying over the ocean.",
             "A kite flying through the sky on a clear day.",
@@ -1777,7 +1777,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A clock that is on top of a pole.",
             "A clock sitting in the middle of a sidewalk near a street.",
             "A large clock on a post on the sidewalk.",
@@ -1793,7 +1793,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A baseball player holding a bat while standing in a field.",
             "The men are playing a game of baseball on the field. ",
             "A baseball player taking a swing at a ball",
@@ -1809,7 +1809,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A guy squatting and holding a baseball bat at home plate.",
             "A man standing on a field, holding a bat.",
             "A baseball player taking a swing at a ball",
@@ -1825,7 +1825,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man holding a baseball bat while standing next to home plate.",
             "There is a baseball game going on the player is waiting to hit the ball, the umpire is at base.",
             "There is dust coming out of the catcher's glove as a boy prepares to bat.",
@@ -1841,7 +1841,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little boy in a baseball uniform holds the bat ready to swing.",
             "A young boy posing with a baseball bat in hand",
             "A young man poses for his baseball team picture.",
@@ -1857,7 +1857,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A batter up at the plate in a baseball game ",
             "A baseball player about to receive a pitch in a stadium full of people. ",
             "Many fans are in a stadium watching a baseball game.",
@@ -1873,7 +1873,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man hit something that exploded with a bat.",
             "a person breadking a bottle with a baseball bat ",
             "A boy in yellow shirt swinging a baseball bat.",
@@ -1889,7 +1889,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large pepperoni and mushroom pizza being cut",
             "A person is slicing an oven bake pizza.",
             "a close up of a person slicing pizza",
@@ -1905,7 +1905,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people that are standing on a tennis court.",
             "A group of people who are on a tennis court.",
             "a few people that are playing tennis on a court",
@@ -1921,7 +1921,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A guy in a maroon shirt is holding a tennis racket out to hit a tennis ball.",
             "A man on a tennis court that has a racquet.",
             "A boy hitting a tennis ball on the tennis court.",
@@ -1937,7 +1937,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bunch of people sit in an open court yard",
             "a small group of people standing around a ball patio ",
             "A group of people walking around a parking lot.",
@@ -1953,7 +1953,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "there are three vases made of clay on a table",
             "Three different pots sit near one another on a table.",
             "Three hand formed clay pots with dripping paint",
@@ -1969,7 +1969,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man in costume talking on a cell phone.",
             "A man stands and talks on his cell phone.",
             "A man in strange attire on a phone in a field",
@@ -1985,7 +1985,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large crowd is attending a community fair.",
             "A crowd of people walking in an outdoor fair.",
             "A crowd of people at a festival type event in front of a clock tower.",
@@ -2001,7 +2001,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A person brushing a cat with a brush.",
             "A woman brushing her cat that is laying on a radiator.",
             "A woman is brushing her large gray cat.",
@@ -2017,7 +2017,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A concrete building with towers, a steep in the middle and a clock underneath.",
             "A large gray building with a clock tower surrounded by some trees.",
             "a big tower that is surrounded by trees",
@@ -2033,7 +2033,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pile of teddy bears and dolls in a toy box.",
             "Three teddy bears and a doll like next to each other in a box.",
             "A group of stuffed toys are placed together.",
@@ -2049,7 +2049,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A street with various buildings on each side and a clock tower.",
             "A narrow lane has buildings on either side and one of the buildings is yellow and another is yellow and white.",
             "There is a church at the end of the street.",
@@ -2065,7 +2065,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A doll standing next to a vase filled with flowers and plants.",
             "Flowers are placed in a vase with large leaves.",
             "A flower arrangement in a clear glass vase next to a doll.",
@@ -2081,7 +2081,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A vase of light and dark purple flowers in a white vase.",
             "a close up of a vase with many flowers",
             "A bouquet of fresh flowers in a cream colored vase",
@@ -2097,7 +2097,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man holding a giant pair of black scissors.",
             "A man holding a giant scissors about three feet tall.",
             "A man holding a large pair of scissors ",
@@ -2113,7 +2113,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pencil is sitting on a ruler with a pair of scissors.",
             "Scissors and string next to a pencil and other tools.",
             "Knitting tools sit together including a pencil, scissors, and a spool of thread.",
@@ -2129,7 +2129,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a bunch of people are sitting around a table",
             "A group of people posing for a picture around a dinner table.",
             "A group of young men and women sitting at a table.",
@@ -2145,7 +2145,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "People and their children are gathered outside meeting together.",
             "A group of well dressed adults sitting outside with some children.",
             "The group of people are gathering together in the yard. ",
@@ -2161,7 +2161,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a large group of people are gathered around the table",
             "a party that is full of wine tasters seems pumping.",
             "A lot of people having some wine and talking.",
@@ -2177,7 +2177,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man standing with a glass in his hand.",
             "A man that is holding a wine glass in one hand. ",
             "a man is holding something in his hand",
@@ -2193,7 +2193,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman holding onto a pink bag of luggage.",
             "a bunch of people in a busy area",
             "A woman holding a travel bag in a crowd of people passing by her.",
@@ -2209,7 +2209,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bunch of groceries are piled onto a table. ",
             "Table filled with a bunch of different types of food.",
             "Assortment of packaged vegetable on display on counter.",
@@ -2225,7 +2225,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing in a kitchen with hard wood floors.",
             "A woman fixes food in the kitchen while a cat sits behind her.",
             "A woman and a little dog in a very large kitchen.",
@@ -2241,7 +2241,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman observing something on a kitchen stove.",
             "A woman is cooking on a large black stove",
             "A woman cooking on an old fashioned stove.",
@@ -2257,7 +2257,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The man is sitting in the small kitchen on a stool. ",
             "A man sits in a wooden kitchen at a table.",
             "The man is sitting on a bench in his kitchen.",
@@ -2273,7 +2273,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man standing next to a dog on the ground.",
             "A man is at a kitchen counter by a dog.",
             "An man standing in a kitchen with a small puppy.",
@@ -2289,7 +2289,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kitchen shelf holds an assortment of pots, pans, and utensils.",
             "A wooden table in a kitchen with pots and pans.",
             "A cutting board , pot rack and dish shelf.",
@@ -2305,7 +2305,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young girl riding a skateboard next to two guys.",
             "two young men standing in front of her while she has her foot on a skateboard.",
             "The teenagers are standing together on the sidewalk. ",
@@ -2321,7 +2321,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man is posing for a great photo shop. ",
             "A guy on a bike looking out from behind a wall.",
             "A black and white image of a bicyclist behind a wall. ",
@@ -2337,7 +2337,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The small bathroom has wooden cabinets around the sink.",
             "A toilet and sink in a small room.",
             "A bathroom with a toilet and sink and bathroom accessories. ",
@@ -2353,7 +2353,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with a sink, paper roll, toilet, towel rack and mirror.",
             "This corner of the bathroom uses space very efficiently, with lighting, vanity, towel hanger, and toilet tissue holder. ",
             "Sink, mirror, and toilet in compact bathroom in a hotel.",
@@ -2369,7 +2369,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white toilet sitting next to a shower in a bathroom.",
             "A bathroom, showing the shower, toilet and sink.",
             "A bathroom with a toilet, sink and shower stall.",
@@ -2385,7 +2385,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple riding a motorcycle down a street.",
             "A couple is riding a motorcycle that is pulling a cart behind it.",
             "two people riding a motorcycle with a car on the back of it",
@@ -2401,7 +2401,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white toilet on the ground by some junk.",
             "A white toilet sitting next to trunks of stuff.",
             "An old toilet sitting next to other debris. ",
@@ -2417,7 +2417,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "people standing outside a building with clocks built into the side of it",
             "a group of people underneath a large clock",
             "Many people gather around a building with clocks",
@@ -2433,7 +2433,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "two people on motorcycles car and trees and water",
             "MOTORCYCLISTS WAITING IN TRAFFIC ON A RAINY DAY",
             "Two individuals sit on motorcycles on a busy street in the rain.",
@@ -2449,7 +2449,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people observing two planes at an air show. ",
             "A family walks on a runway near huge planes.",
             "People walking towards aircrafts on display outside during the day.",
@@ -2465,7 +2465,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An airplane flying in the sky with smoke coming out of it. ",
             "A trick plane performing trick moves in the sky.",
             "A red and black airplane in a clear blue sky upside down.",
@@ -2481,7 +2481,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large airliner jet flying through the blue sky.",
             "An airplane flying in a clear blue sky.",
             "A large white airplane flying through the sky.",
@@ -2497,7 +2497,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A red, grey and white airplane passes overhead.",
             "A view from the ground of the bottom of an airplane.",
             "A jet airplane is flying through the sky.",
@@ -2513,7 +2513,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small airplane flying through a blue sky.",
             "A red plane flying in a cloudless sky",
             "A small airplane flies in the sky during the daytime. ",
@@ -2529,7 +2529,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A herd of buffalo grazing on grass next to the ocean.",
             "A herd of black sheep grazing near the shore",
             "A field full of wild animals next to a beach.",
@@ -2545,7 +2545,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe in a dry savannah with dry shrubs",
             "A giraffe standing in a dry, open field.",
             "A giraffe standing on top of a dry grass field.",
@@ -2561,7 +2561,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe standing in front of green brush.",
             "A giraffe stands with its head above the grass.",
             "A tall giraffe is standing against the gray sky.",
@@ -2577,7 +2577,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A traffic light hanging over a street next to tall buildings.",
             "A street light in a city setting next to high rise buildings.",
             "a sun setting over a large city and buildings",
@@ -2593,7 +2593,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "It is night time and the town is quiet. ",
             "A nightlife scene at the park in the dark",
             "A long exposure image of a street during the night. ",
@@ -2609,7 +2609,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a couple of giraffes that are standing in a fence",
             "two giraffe stand behind a fence in a zoo enclosure",
             "Two giraffes roaming around an enclosed area on a sunny day.",
@@ -2625,7 +2625,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe sticking its head in a feeding basket with trees in background.",
             "Giraffe reaching into basked with trees in background",
             "A very tall adult giraffe eating from a basket.",
@@ -2641,7 +2641,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A picture of two giraffes, fairly close to a road, with a bus traveling up it.",
             "People driving and observing giarffs in a natural environment.",
             "Giraffes are wandering around on a field with a camper in the background.",
@@ -2657,7 +2657,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A set of park benches near a lamp post",
             "A park with benches, a lamppost, and trees.",
             "Park scene, park bench, light pole and building in back ground, probably city park area.",
@@ -2673,7 +2673,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A herd of sheep are grazing in a green field.",
             "Sheep are on a grassy field and one of them is a white and black baby.",
             "The small herd of sheep are grazing on the grassy field. ",
@@ -2689,7 +2689,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man sitting on a bench right on a bay of water.",
             "A person sitting down a bench in front of the ocean. ",
             "Man sitting on bench on rocky shore watching ship in distance.",
@@ -2705,7 +2705,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe standing outside of a building next to a tree.",
             "A giraffe standing in a small piece of shade.",
             "A giraffe finds some sparse shade in his habitat",
@@ -2721,7 +2721,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two Mallards float and drink water in a shallow pool.",
             "Two ducks are swimming in some brown water.",
             "Two ducks swimming on a very dirty pond.",
@@ -2737,7 +2737,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two giraffe standing next to each other near  brick building.",
             "The two giraffes look over the fence at the same time.",
             "Three giraffes looking over a large wooden fence.",
@@ -2753,7 +2753,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a giraffe checking out the bark on a tree",
             "A giraffe in an enclosure reaching for food.",
             "A giraffe and zebra inside of a zoo enclosure",
@@ -2769,7 +2769,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A street sign above an orange detour sign.",
             "A wooden post with a detour sign posted on it",
             "A street corner has a stoplight and detour sign.",
@@ -2785,7 +2785,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe bending over while standing on green grass.",
             "A baby giraffe bending over to graze on the grass.",
             "A single young giraffe eats from a grassy field.",
@@ -2801,7 +2801,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two giraffes stand and eat food out of a basket.",
             "two giraffes looking for food in an empty feeding basket",
             "a couple of giraffes reach for a basket ",
@@ -2817,7 +2817,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "THERE ARE ANIMALS THAT ARE GRASSING IN THE FIELD ",
             "A group of sheep in a fenced in area. ",
             "very many woolly sheep in a field which is dry",
@@ -2833,7 +2833,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "some black and white sheep a fence dirt and grass",
             "Sheep that have been sheared standing in a pen.",
             "Several grey sheep on a dry grassy field.",
@@ -2849,7 +2849,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A few llamas in a fence with fog over them.",
             "some animals are standing out in the water",
             "A herd of animals grazing on top of a dry grass field.",
@@ -2865,7 +2865,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A load of trash or work supplies in a dumpster outside.",
             "A utility truck on a street next to a building.",
             "An overhead view show the contents of a trash dumpster.",
@@ -2881,7 +2881,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a photo of a train heading down the tracks ",
             "A train is going to travel up hill on a street. ",
             "Cars are driving through a tunnel on a highway.",
@@ -2897,7 +2897,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "red and yellow train on a train track",
             "Red train on its tracks in a green field.",
             "An old red train engine pulling cars behind it",
@@ -2913,7 +2913,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A stop sign and street sign encased in snow and ice.",
             "A couple of street signs sticking out the side of a ski slope.",
             "A stop sign and street sign encased in a wall of snow.",
@@ -2929,7 +2929,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A red and yellow train pulling into a train station.",
             "A red commuter train with doors open at the station",
             "there is a red train pulling into the station",
@@ -2945,7 +2945,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A stop sign that has some graffiti on it.",
             "Punk graffiti is spray painted on a stop sign.",
             "A stop sign that has some tagging on it.",
@@ -2961,7 +2961,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A cat is jumping off of a stack of suitcases.",
             "a yellow cat on top of stacked suit cases about to jump off",
             "a cat standing on red colored travel luggage ",
@@ -2977,7 +2977,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a black and gray spotted cat is sitting on a windows sill",
             "A cat on the window looking outside next to the balcony",
             "Tiger kitten sitting by French window looking out over sunny balcony. ",
@@ -2993,7 +2993,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A red fire truck with a bunch of Christmas decorations on back of it.",
             "Fire truck full of Christmas decorations in a night time holiday parade.",
             "A fire truck decorated in a Christmas display featuring santa and children on top.",
@@ -3009,7 +3009,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A black and white picture of a group of people.",
             "A black and white photograph of people at a party.",
             "a big group of people posing for a picture",
@@ -3025,7 +3025,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A brown and white dog wearing a neck tie.",
             "A brown and white dog wearing a tie on carpet.",
             "A dog wearing a tie poses for the camera. ",
@@ -3041,7 +3041,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The bow of a ship on land with another on the edge of the water.",
             "The bottom of a rustic boat overlooks a brightly painted one.",
             "The wooden bow of a ship with an out of focus boat in the back ground. ",
@@ -3057,7 +3057,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Several beached boats on the sand with orange balls hanging over the sides.",
             "A large number of boats that have been beached.",
             "The ships are all docked on the beach by the water.",
@@ -3073,7 +3073,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man sitting next to a woman while wearing a suit.",
             "Two people are posing for a photograph together",
             "A black and white photo of a couple.",
@@ -3089,7 +3089,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of four women walking down a street in the rain.",
             "several people hold umbrellas in a rain storm",
             "Two couples are walking down a wet sidewalk under umbrellas.",
@@ -3105,7 +3105,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A cute cat laying down in a sink.",
             "A cat laying inside of a sink under a fixture.",
             "A grey and white cat lays in a sink.",
@@ -3121,7 +3121,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A cat sitting on a bathroom counter behind a hair dryer.",
             "A cat getting his fur blow dried after getting a bath.",
             "The cat is seen twice because of a mirror.",
@@ -3137,7 +3137,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man using his laptop computer while a cat sits on his lap.",
             "A man sitting in a chair with a cat and a laptop.",
             "A cat sitting on the man's lap while the man types on the laptop. ",
@@ -3153,7 +3153,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "There is a person petting a very large elephant",
             "A person touching an elephant in front of a wall.",
             "A man in white shirt petting the cheek of an elephant.",
@@ -3169,7 +3169,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two dogs are playing on the beach catching a Frisbee. ",
             "Of two dogs, only one may be the victor.",
             "A dog catching a frisbee by another dog on a beach.",
@@ -3185,7 +3185,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "two dogs sharing a frisby in their mouth in the snow",
             "two dogs on the snow playing frisbee together",
             "A couple of dogs fighting over a frisbee.",
@@ -3201,7 +3201,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of pieces of very nice looking luggage.",
             "Two different brands but similar looking devices sitting by each other.",
             "Two pieces of luggage stand next to each other. ",
@@ -3217,7 +3217,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Darth Vader holding a plastic light saber in an airport while a kid stands in the background with a real lightsaber.",
             "A picture shows Darth Vader waiting at a luggage carousel.",
             "Darth Vader stands waiting for his luggage in a terminal.",
@@ -3233,7 +3233,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A very cute brown dog with a disc in its mouth.",
             "A dog running in the grass with a frisbee in his mouth. ",
             "A dog carrying a Frisbee in its mouth running on a grass lawn. ",
@@ -3249,7 +3249,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "some zebra chillin in the wild with a bird flying over",
             "A heard of zebra on the plains at a watering hole.",
             "A group of zebras and birds are gathered around water.",
@@ -3265,7 +3265,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little girl holding a red frisbee standing on a lush green field.",
             "A little girl in the grass wearing sunglasses holding a frisbee.",
             "A young girl is holding a Frisbee in the grass",
@@ -3281,7 +3281,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Three zebras and other wild animals out in a semi-green field.",
             "Three zebras and two other animals grazing. ",
             "Wildlife standing near water area in natural setting.",
@@ -3297,7 +3297,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "There's a field of brown grass with zebras in it",
             "A group of zebras relax and play together in a large field",
             "A herd of zebras stand on a pathway near brown grass.",
@@ -3313,7 +3313,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A zebras rump is up close for a photo.",
             "A zebra standing on the ground with little scattered grass.",
             "a zebra is standing on dirt and grass ",
@@ -3329,7 +3329,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large brown horse walking through a lush green forest.",
             "A horse walking by a tree in the woods.",
             "a horse running through the woods fast outside",
@@ -3345,7 +3345,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people walking next to stairs.",
             "A statue of a man on a horse with two people walking by.",
             "A couple people walking by a statue of a man on a horse",
@@ -3361,7 +3361,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A close-up of a waffle shaped cone with a banana in it.",
             "The golden waffle has a banana in it.",
             "A banana sticking out of what looks like a waffle.",
@@ -3377,7 +3377,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A guy in a jet ski goes fast in a curve. ",
             "A person in the ocean using something to shoot water into the air.",
             "A person is riding on a jet ski in a body of water.",
@@ -3393,7 +3393,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman that is standing on ski's in the snow.",
             "a lady snow skiing on flat ground ",
             "Two people on skis in snowy area surrounded by trees.",
@@ -3409,7 +3409,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A close up of dozens of of oranges stacked.",
             "There are a lot oranges in this pile.",
             "A host of oranges sitting on a fruit stand.",
@@ -3425,7 +3425,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pile of oranges sitting inside of a basket.",
             "There are different citrus fruits in the bowl. ",
             "A close up view of oranges and a couple of lemons.",
@@ -3441,7 +3441,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Woman cross country skiing alone on a trail in the woods.",
             "The cross country skier on the snow covered road all alone.",
             "Woman on cross country skis traveling on path in forest.",
@@ -3457,7 +3457,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two baseball players work out on the field.",
             "Interesting antics by two men during a baseball game ",
             "A man in a baseball uniform stands spread eagle near a man with a red had who has a baseball glove on one hand.",
@@ -3473,7 +3473,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two cross country skiers heading onto the trail",
             "Two guys cross country ski in a race",
             "Skiers on their skis ride on the slope while others watch.",
@@ -3489,7 +3489,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "There is two men riding on a skateboard on the street.",
             "Two men who are skateboarding down a street.",
             "Two friends are skateboarding down the street to their next destination.",
@@ -3505,7 +3505,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman riding skis down a snow covered slope.",
             "A snow skier on a cross country trail.",
             "A lone woman skies down the slope in her red snow jacket.",
@@ -3521,7 +3521,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a person riding skis on a snowy slope",
             "Woman enjoying down hill skiing at a well-groomed resort",
             "a woman skier coming to a stop after her run down the gnarly hill",
@@ -3537,7 +3537,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Small children with protective gear playing in a park. ",
             "Small children stand near bicycles at a skate park.",
             "Boys wearing helmets carry a bicycle up a ramp at a skate park.",
@@ -3553,7 +3553,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small plastic dish with food in it ",
             "A bento box with rice and vegetables is shown with chopsticks.",
             "A green bowl features snacks and fresh fruit.",
@@ -3569,7 +3569,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a table set for three with food and wine",
             "The table has many plates, bowls, and wine glasses on it.",
             "a dining room table with a bottle of wine and wine glasses and a pot of carrots",
@@ -3585,7 +3585,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a group of young people getting ready to go ski",
             "A group of people have backpacks as they stand on snow skis in the snow.",
             "A group of skiers are gathered together as they get ready to ski.",
@@ -3601,7 +3601,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man is eating hot dogs in his mouth",
             "A man is eating two hot dogs without the bun.",
             "A man eating a hot dog out of its bun.",
@@ -3617,7 +3617,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man flying through the air while riding a skateboard.",
             "A skateboarder preforming tricks on a half pipe. ",
             "a man performs a trick on a skate board ",
@@ -3633,7 +3633,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A donut covered in chocolate sitting next to a cup of coffee.",
             "A cup of coffee and a doughnut are on a table.",
             "The large donut is next to a cup of coffee.",
@@ -3649,7 +3649,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A knife with red crumbs on it next to a cup on top of a wooden table.",
             "A black object beside a gray and white bowl on a wood surface.",
             "the table has a bowl as well as knife on it ",
@@ -3665,7 +3665,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A plate with a small square piece of cake with white frosting.",
             "A bowl with a piece of cake in it next to a spoon.",
             "A white pastry sitting in a beige ball next to a spoon.",
@@ -3681,7 +3681,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large cake shaped like a cup covered in coco powder sitting on a white cutting board.",
             "A cake that has been made to look like a cup",
             "A white plate with a cake on top of it and one slice cut out.",
@@ -3697,7 +3697,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man that is laying down underneath a cat.",
             "The man is sleeping in a bed near two cats. ",
             "A bearded man sleeping with a cat on top of his head. ",
@@ -3713,7 +3713,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bedroom has many posters on the wall.",
             "A bedroom has gold paint and posters on the wall.",
             "A bed is in a room with posters.",
@@ -3729,7 +3729,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people gathered to celebrate a birthday.",
             "The cake is decorated for the family celebration.",
             "people gather around and sit at a table around a birthday cake",
@@ -3745,7 +3745,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing next to a table holding a sheet cake.",
             "A woman holding a rectangular shaped iced cake.",
             "A young woman holding a large decorated cake.",
@@ -3761,7 +3761,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of women holding up a cake together.",
             "A couple of women holding a cake in their hands.",
             "Two women in wigs are holding a birthday cake.",
@@ -3777,7 +3777,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a few drag queens make some cake and eat it",
             "two people wearing wigs holding a cake that has their picture on it",
             "Cake with a picture of two girls holding it in the picture",
@@ -3793,7 +3793,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A surfer surfing on the surfboard with an oar in the ocean. ",
             "A man surfing a small wave with a paddle",
             "A man with an oar on a surfboard in the water.",
@@ -3809,7 +3809,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people that are at the beach.",
             "LOTS OF MEN, WOMEN, AND CHILDREN ON THE BEACH WITH SURF BOARDS",
             "Parents and their children surfing at the beach.",
@@ -3825,7 +3825,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "This messy pizza is covered in cheese and mushrooms",
             "A small pizza being served on a white plate.",
             "A large pizza with cheese and mushrooms on a serving tray.",
@@ -3841,7 +3841,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a tennis player holding a tennis racket on a court",
             "two people playing a match of tennis on a court.",
             "A man with a tennis racket walks from the net of a tennis court. ",
@@ -3857,7 +3857,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A blurry image of pizza with a fork, knife and drink",
             "A margarita pizza in a restaurant with a soda on the side. ",
             "a small pizza that is on a brown table",
@@ -3873,7 +3873,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two pieces of pizza are served on a plate.",
             "Someone is holding a black plate with two slices of pizza. ",
             "A plate with two slices of pizza on it.",
@@ -3889,7 +3889,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people sitting at a table holding different pizzas.",
             "A family is having a pizza dinner at a restaurant",
             "A group of people sitting around a table with pizza on it.",
@@ -3905,7 +3905,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A shirtless man playing tennis on a blue court.",
             "an image of a shirtless man hitting tennis racket",
             "A man is standing on a court with a tennis racket.",
@@ -3921,7 +3921,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A living room with hard wood floors filled with furniture.",
             "A couch and chair on a hardwood floor.",
             "A dog curls up on a couch to go to sleep. ",
@@ -3937,7 +3937,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two smiling young people playing a game of Wii.",
             "A man and woman playing a video game together.",
             "A man and woman in a living room play against each other on a Wii.",
@@ -3953,7 +3953,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young child holding a Nintendo Wii game controller.",
             "A girl is standing next to a chair holding a Wii controller.",
             "A very young child holding a remote in its hand.",
@@ -3969,7 +3969,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The two monitors are sitting among the laptops.",
             "Several computer monitors and keyboards sitting on the same desk. ",
             "A desk with two laptops, two computers, headphones and a cell phone. ",
@@ -3985,7 +3985,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A very nice living room that is very clean.",
             "A big, open room with large windows and wooden floors.",
             "A living room with a wooden floor filled with furniture.",
@@ -4001,7 +4001,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kite is flying in the air at a park.",
             "A grassy field with a kite in the sky in the background.",
             "Person in a green park fling a kite.",
@@ -4017,7 +4017,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A guy up to bat in a action in a baseball game.",
             "A pitcher and batter in a baseball game.",
             "A pitcher throwing a baseball at a player at bat.",
@@ -4033,7 +4033,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A baseball player swinging his bat at a baseball.",
             "Batter taking a swing at the ball during baseball game",
             "A baseball player hit the ball with his bat.",
@@ -4049,7 +4049,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "there is a green clock in the street",
             "A green clock sitting in front of a tall building.",
             "A large green clock with figures on top.",
@@ -4065,7 +4065,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "an image of a woman sitting down on a couch with laptop",
             "a person sitting on a couch with a lap top on their lap.",
             "a close up of person sitting with a laptop",
@@ -4081,7 +4081,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An alcoholic beverage besides a laptop within a restaurant ",
             "a laptop on a wooden table near a drink",
             "A laptop sitting on a picnic table with a glass of beer.",
@@ -4097,7 +4097,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A hand holding a smartphone with a small screen.",
             "A man holding his Sprint cell phone with the words Upstage across the screen.",
             "A person holding a cell phone in their hand.",
@@ -4113,7 +4113,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a woman in a blue top with headphones and two cellphones",
             "A woman in blue sweater holding two cellphones while wearing headphones.",
             "A person holding a phone in each hand and wearing a head set in front  of a Christmas tree.",
@@ -4129,7 +4129,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A lady holding a pan with a big turkey in an open oven.",
             "A woman is taking the cooked turkey out of the oven",
             "Woman pulling large roaster with roast chicken in it",
@@ -4145,7 +4145,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little girl holding a blow dryer next to her head.",
             "A little kid gets help using a hair dryer.",
             "Small child in blue shirt holds up blowdryer in hand. ",
@@ -4161,7 +4161,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A lovely dinner and a bottle of wine",
             "A table with a bottle of wine and a plate of food including a sweet potato and pineapple salad.",
             "A very fancy looking dish of food on a dining table.",
@@ -4177,7 +4177,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a couple of young kids are sitting together",
             "A vintage closeup shows a chair with a toddler with a big smile and a big toy bear seated right  next to a second toddler with a semi-smile, holding what appears to be a coin purse.",
             "A picture of two young kids posing or a picture.",
@@ -4193,7 +4193,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman with beautiful breast sitting at a table.",
             "a person sitting at a table with food and a drink",
             "Young women gazing pensively left while sitting in a restaurant.",
@@ -4209,7 +4209,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kitchen counter with dishes dryin g on the stove",
             "A partial view of a kitchen with a oven.",
             "a towel with a big chunk of cheese on it above an oven",
@@ -4225,7 +4225,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A laptop that is sitting on a table.",
             "A laptop is set up on a dining room table.",
             "a dining room table with a laptop and scattered papers sitting on it",
@@ -4241,7 +4241,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kitchen with white appliances and a window.",
             "A shot of a small black and white kitchen",
             "A picture of a small clean kitchen. ",
@@ -4257,7 +4257,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A standing toilet hole filled with nasty filthy.",
             "there is a very dirty rusted outline of a toilet",
             "A empty pipe hole where a toilet used to be.",
@@ -4273,7 +4273,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom being remodeled with a white toilet.",
             "An old bathroom with a toilet and unpainted walls.",
             "A nasty view of a clean white toilet in the image. ",
@@ -4289,7 +4289,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with a sink, toilet, tub and mirror.",
             "a bathroom with a toilet sitting next to a bath tub ",
             "A bathroom with a green bathmat over the edge of the tub",
@@ -4305,7 +4305,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The bathroom is equipped with several new appliances.",
             "The bathroom is clean and ready to use.",
             "A bathroom has a tub, and a washing machine in front of a large window.",
@@ -4321,7 +4321,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A door open to a bathroom with the vanity showing.",
             "There is a bright window in the small bathroom.",
             "A litter box sits on the floor of this small bathroom. ",
@@ -4337,7 +4337,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A black cat is huddled in the bathroom sink for a perfect fit.",
             "A large black cat sits inside of an empty bathtub.",
             "a black cat sitting in a sink in a bathroom",
@@ -4353,7 +4353,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of dogs sitting in the front seats of a car.",
             "There is a dog in a car licking at the window",
             "A dog with his tongue out sits ion a car",
@@ -4369,7 +4369,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A picture of rush hour traffic on the streets.",
             "A look through a window at a very busy city street.",
             "A picture taken from inside a taxi of a crowded Asian street",
@@ -4385,7 +4385,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with tile flooring and walls, and a white toilet.",
             "A clean toilet in a small tiled bathroom",
             "A white toilet sitting in a bathroom next to a mirror.",
@@ -4401,7 +4401,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white ceramic sink next to a toilet.",
             "there is a brown box on the toilet",
             "A sink is next to a toilet with a card box on top of it.",
@@ -4417,7 +4417,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A cat with its paws halfway into an open toilet.",
             "A cat that is half in a toilet.",
             "An orange tabby  kitten explores the toilet in a bathroom. ",
@@ -4433,7 +4433,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A black and white cat is laying on a green pillow on top of a desk.",
             "A cat laying on a pillow on a desk.",
             "a close up of a cat laying on a pillow",
@@ -4449,7 +4449,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Many oranges have been placed inside a bowl.",
             "A bowl full of oranges that still have stems",
             "Eight oranges sitting in a white bowl. ",
@@ -4465,7 +4465,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A blue airplane flies in a clear blue sky.",
             "The airplane has two propeller on each wing.",
             "An airplane in the air with four propellers. ",
@@ -4481,7 +4481,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large jetliner flying under a cloud filled sky.",
             "A plane flies above the tree tops in a greenish sky.",
             "The plane is taking off over the trees.",
@@ -4497,7 +4497,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Grey plane taking off above some green vegetation.",
             "View of jet airliner taking off over tree top.",
             "A passenger jet is flying over some trees.",
@@ -4513,7 +4513,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two birds going up the back of a giraffe. ",
             "Two birds sitting on the the back of a giraffe. ",
             "Two birds are sitting on a wall near the bushes.\n",
@@ -4529,7 +4529,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A distant airplane flying between two large buildings.",
             "A couple of tall buildings with a large jetliner between them.",
             "Commercial airliner flying between two tall structures on clear day.",
@@ -4545,7 +4545,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A low flying commercial plane passing tall  buildings",
             "An airplane is flying in the sky beyond some skyscrapers.",
             "A jetliner flying low as viewed between two skyscrapers.",
@@ -4561,7 +4561,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A picture of a giraffe drinking some water.",
             "A giraffe is bending down to get a drink of water.",
             "A giraffe has its front legs spread to bend down for a drink of water at a pond.  ",
@@ -4577,7 +4577,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of traffic lights hanging over a city street.",
             "Traffic lights shine over an empty intersection at twilight. ",
             "A street with traffic lights, wall and buildings.",
@@ -4593,7 +4593,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A book on a wooden bench on a street.",
             "A book rest on one of the benches ",
             "A California travel guide book on a park bench. ",
@@ -4609,7 +4609,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A green traffic light above a street with a car on coming.",
             "A green traffic light above a street with one car driving by.",
             "The traffic lite is green as a car approaches.",
@@ -4625,7 +4625,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large herd of sheep are grazing by the busy road.",
             "Sheep are grazing on the verges of a highway.",
             "A large herd of sheep standing in the grass near a road.",
@@ -4641,7 +4641,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Young woman with sheep on straw covered floor.",
             "A child places his hands on the head and neck of a sheep while another sheep looks at his face.",
             "A person petting the head of a cute fluffy sheep.",
@@ -4657,7 +4657,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bird standing on top of a beach next to water.",
             "A large stork spreads it's wings as it lands.",
             "A crane with fully extended wings landing on a marshy ground.",
@@ -4673,7 +4673,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "THERE IS A PERSON THAT IS SITTING IN THE BOAT ON THE WATER",
             "a woman in a red and white boat water and trees",
             "A woman riding in a boat on a sunny day.",
@@ -4689,7 +4689,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A parade on the street with a person riding an elephant.",
             "a parade with an elephant wearing a sign that says\" i love new york\"",
             "Few persons are seen on zebra crossing on road and an elephant with a banner is there.",
@@ -4705,7 +4705,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A CGI man sitting on top of a CGI hospital bed.",
             "A man in a hospital bad with a man sitting on the edge of his bed.",
             "An image of a guy sitting on a bed with a patient.",
@@ -4721,7 +4721,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The large blue train is covered with rust.",
             "A rusted train parked on the rail road .",
             "A blue railroad train sitting on the railroad tracks",
@@ -4737,7 +4737,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bird perched on top of a wooden power pole.",
             "a black bird standing on top of a power pole ",
             "A bird is on the top of a telephone pole.",
@@ -4753,7 +4753,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two birds who are looking out of the cage they are in.",
             "Two birds in an enclosed area outside during the day.",
             "An outdoor cage with tall, thin colorful birds.",
@@ -4769,7 +4769,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Elaborate Toronto Blue Jays professional baseball cap cake",
             "The blue and white hat has a bird on it",
             "Large blue bird sitting on a baseball hat on a table. ",
@@ -4785,7 +4785,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing over a sheet cake sitting on top of a table.",
             "A LADY IS HAVING A CELEBRATION AND LOOKING AT HER CAKE",
             "A lady in a hat standing in front of a big cake. ",
@@ -4801,7 +4801,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A guy is near a busy street in a foreign country.",
             "Man standing at edge of busy road in metropolitan street.",
             "The man is standing beside a busy street.",
@@ -4817,7 +4817,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A red stop sign sitting next to country road.",
             "A stop sign and a view of a crossroads with several utility poles around.",
             "Two stop sign on street corners on the street",
@@ -4833,7 +4833,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "People standing around looking at a small train on a track",
             "a black and red train sitting on a train track with workers on it ",
             "A couple of people standing along side of a train engine.",
@@ -4849,7 +4849,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "We are looking a train in the distance.",
             "a train on a track near some buildings ",
             "an empty area at a large train station",
@@ -4865,7 +4865,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A train car riding the railroad in a city.",
             "A tall building sitting next to train tracks.",
             "Some tracks for a rail way system near a building ",
@@ -4881,7 +4881,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a cat is laying down on a blue chair",
             "A cat sitting on a chair, that is blue and yellow.",
             "A cat relaxes on a wicker and wood chair with another black cat and other chairs in the background.",
@@ -4897,7 +4897,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A herd of animals grazing on a dry grass field.",
             "Numerous head of cattle are grazing in the grass.",
             "A herd of cows grazing in a grassy field.",
@@ -4913,7 +4913,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "the boat is tied up on the lake ",
             "A boat tied up at the shore of a river.",
             "A boat parked in a  harbor next to smaller buildings.",
@@ -4929,7 +4929,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An elephant is walking on a pile of sand outside a building.",
             "An elephant is by a tire and a pile of dirt.",
             "An elephant stands in an exhibit near a wall with some rocks and a tire nearby.",
@@ -4945,7 +4945,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "an elephant walking through the weeds in the forest",
             "A baby elephant walking through a forest next to trees.",
             "Elephant in a forest with a lot of underbrush.",
@@ -4961,7 +4961,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two photographs of elephants in a rocky area.",
             "Two shots of elephants near rocks and a fence.",
             "An elephant inside of their enclosure playing with logs and eating.",
@@ -4977,7 +4977,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a small elephant walks in a lush forest",
             "Elephant walking through the wooded area full of trees and tall plants",
             "Multiple elephants walking through a heavily wooded area",
@@ -4993,7 +4993,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of elephants with one elephant raising it's trunk and dust and dirt coming up behind it.",
             "Three elephants kick up dust as they walk through the flat by the bushes.",
             "A heard of elephants with one's trunk raised.",
@@ -5009,7 +5009,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A guy is standing in an airport with several bags of luggage.",
             "A male standing behind eight pieces of luggage.",
             "A man standing up in an airport with a group of bags and backpacks in front of him on the floor.",
@@ -5025,7 +5025,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a woman with a tattoo is sitting on the train tracks",
             "A womman sitting on railroad tracks with a suitcase beside her.",
             "A woman wearing a skirt shows off her tatttoos",
@@ -5041,7 +5041,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "an image of two elephants doing down the grass",
             "Some elephants are standing in the middle of a field. ",
             "Two elephants in the field moving along during the day.",
@@ -5057,7 +5057,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman standing in an alley way holding an umbrella.",
             "A person stands under an umbrella on a sunny day.",
             "A woman on the street holding an open umbrella.",
@@ -5073,7 +5073,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two elephants are standing by the trees in the wild. ",
             "A couple of elephants standing next to trees.",
             "Two elephants are standing in the grass near a tree..",
@@ -5089,7 +5089,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of bags in the back of a car.",
             "A photo of black luggaes in the back trunk of a car ",
             "Luggage and other essentials in the trunk of a car.",
@@ -5105,7 +5105,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small tricolor terrier dog in a pink collar.",
             "A dog sitting  and alert looking a something.",
             "A dog pays attention to something out of frame.",
@@ -5121,7 +5121,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large white polar bear walking through the snow.",
             "A polar bear is standing in some snow",
             "A polar bear in the snow near water licking his paw.",
@@ -5137,7 +5137,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A dog chewing on a object held in a hand.",
             "A dog biting on a red piece of cloth.",
             "A black and white dog playing with someone.",
@@ -5153,7 +5153,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man holding a white frisbee while standing on a field.",
             "A man standing outside holding a frisbee in his hands. ",
             "a man is outside holding onto a frisbee disc",
@@ -5169,7 +5169,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An adorable dot resting on a beach near the ocean.",
             "A dog resting on the beach at dusk.",
             "A Shiba Inu laying down on a beach by the waves.",
@@ -5185,7 +5185,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two horses with red feathers on top of their heads.",
             "A couple of white horses standing in front of a building.",
             "Two white carriage horses with red feather plumes.",
@@ -5201,7 +5201,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of zebra standing next to each other on a dirt field.",
             "Three zebras huddling together in a very dry area",
             "Three zebras standing in a sandy desert area.",
@@ -5217,7 +5217,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The zebras are eating grass in the fence.",
             "Four zebras are grazing at a nature reserve.",
             "Zebras grazing on sparse grass in an enclosure at an animal park.",
@@ -5233,7 +5233,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of men traveling on horses in the water,",
             "Four men ride horses across a body of water. ",
             "Men are riding horses while going through the river.",
@@ -5249,7 +5249,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man riding a brown horse down a city street.",
             "An older man is riding a horse down the street.",
             "A cowboy rides a horse down a city street",
@@ -5265,7 +5265,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a woman with flowers in her hair staring at the horse next to her",
             "a person next to a horse on a beach",
             "The girl is holding the horse and looking at its face.  ",
@@ -5281,7 +5281,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A collection of fruits and vegetables sitting on a stove top.",
             "some different fruits and vegetables sitting on a stove",
             "A stove top oven topped with lots of fresh fruits and vegetables.",
@@ -5297,7 +5297,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man in a yellow shirt stands in a dirt circle.",
             "a number of baseball players on a field ",
             "A pitcher standing on a mound on top of a baseball field.",
@@ -5313,7 +5313,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of men running across a lush green field.",
             "Two baseball players running at a baseball field. ",
             "Two baseball players in the process of running the bases",
@@ -5329,7 +5329,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man on skis is posing on a ski slope. ",
             "A person on a ski mountain posing for the camera. ",
             "A man n a red coat stands on the snow on skis.",
@@ -5345,7 +5345,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A beautiful girl holding a giant banana in her hands.",
             "A girl with a green hat and black hoodie is holding a banana close to the camera.",
             "A women holding a very large looking banana.",
@@ -5361,7 +5361,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pan filled with food sitting on a stove top.",
             "A pot of soup is being prepared on the stove.",
             "A pot of vegetable soup is cooking on the stove.",
@@ -5377,7 +5377,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A multi colored dish with broccoli and white twisted pasta in it.",
             "There is a plate filled with pasta and vegetables.",
             "Closeup of a green and purple plate of pasta and broccoli.",
@@ -5393,7 +5393,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The dog is dwarfed by his human walker.",
             "A person holding a dog by a red leash.",
             "Small dog with red harness being held by a man with grey shoes.",
@@ -5409,7 +5409,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A skier pauses at a fork in a forest trail covered in snow.",
             "A man riding skis up the side of a snow covered slope.",
             "A skier goes cross country consulting a sign",
@@ -5425,7 +5425,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white bowl filled with lots of green broccoli.",
             "A picture of something and it appears like food.\n\n",
             "A bowl of broccoli sits beside a lemon wedge.",
@@ -5441,7 +5441,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A couple of young boys with skateboards pass a city bus",
             "Two men with skateboards while one is riding.",
             "Two young men are outside skateboarding together. ",
@@ -5457,7 +5457,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A dish of macaroni and cheese, french fries and broccoli are sitting on the table.",
             "some pasta and fries sitting on a plate ",
             "A bowl of pasta shares a plate with fries and broccoli.",
@@ -5473,7 +5473,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a square plate with all kinds of vegetables on the plate",
             "A view of a plate of food , that looks very decorative. ",
             "A person is holding a board with sliced vegetables.",
@@ -5489,7 +5489,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Fast food displayed on a table with sandwich and soup",
             "A sandwich and soup sit on a table.",
             "A burger sitting next to a cup of soup and crackers.",
@@ -5505,7 +5505,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Someone is cooking a vegtable stir fry for dinner",
             "a pan full of vegetables slice up small with a some seasoning on top",
             "Someone is cooking vegetarian stir fry in a skillet.",
@@ -5521,7 +5521,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a wooden cutting board with cheese, bread and a knife on it.",
             "A cutting board topped with cheese, bread and a knife.",
             "A cutting board with carrots and thin breading.",
@@ -5537,7 +5537,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A person on skis flying over a snow track. ",
             "A skier leaning to turn on a snow covered hill.",
             "Skier, in full professional gear, in the middle of a downhill speed race.",
@@ -5553,7 +5553,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people holding some hot dogs in his hand.",
             "A group of people are holding corn dogs in containers.",
             "People hold six corn dogs with various mustard designs",
@@ -5569,7 +5569,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Five bagels laid out on a oven rack",
             "five bagels are sitting on a silver tray",
             "Five bagels are on a metal rack. ",
@@ -5585,7 +5585,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A table topped with donuts and a small box of even more donuts.",
             "Various pastries on napkins that include donuts and donut holes.",
             "A selection of doughnuts and pastry sitting on waxed sheets",
@@ -5601,7 +5601,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a buncch of food is laying out on a table",
             "A dinner table with various plates of food and a glass of water on the table.",
             "Plates with sandwiches, vegetables, and pizza on a table",
@@ -5617,7 +5617,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A donut shop is full of different flavors of donuts.",
             "Fruit flavored donuts lined up in a glass fronted cabinet",
             "A rack with some doughnuts in a glass case.",
@@ -5633,7 +5633,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two young men playing a game of soccer.",
             "Two young men competing in a game of soccer.",
             "two soccer players go after a ball during a game",
@@ -5649,7 +5649,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A row of surfboards sticking out of the sand sitting next to each other.",
             "a row of surf boards placed in the sand",
             "Several surfboards standing in a row on the beach ",
@@ -5665,7 +5665,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A frosted cake that reads \"congratulations kate and luke on your upcoming arrival.\"",
             "A cake is shown with text on it and decorations.",
             "a cake for a couple having a baby",
@@ -5681,7 +5681,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a brown cake with white icing and some walnut toppings",
             "Icing with nuts on top of a cake . ",
             "Corner of a layer cake with frosting and walnuts.",
@@ -5697,7 +5697,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a room in a hotel with two beds a desk and a shutter door",
             "A pleasant bedroom with the door open to invite the beautiful day inside.",
             "Two beds in a room that has a balcony.",
@@ -5713,7 +5713,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a nude person sitting on a bed with sheets and pillows",
             "a naked girl that is sitting down on a bed",
             "A woman with no clothes on sitting on the edge of a bed.",
@@ -5729,7 +5729,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small canopy next to a dresser in a wood paneled room.",
             "This bed has a canopy above it. ",
             "An old style bedroom with a bed, dresser and bed side table.",
@@ -5745,7 +5745,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pizza sitting on top of a table.",
             "a big pizza that is laying on a table",
             "A pizza is topped with many different ingredients.",
@@ -5761,7 +5761,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pizza sitting on top of a white plate on a wooden table.",
             "A pizza topped with tomatoes and basil leafs and a glass of cola on a picnic table.",
             "A tomato and mozzarella pizza sits on a wooden table.",
@@ -5777,7 +5777,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pretty young lady walking across a tennis court.",
             "a girl is about to hit the tennis ball",
             "a woman is holding a tennis racket on a court",
@@ -5793,7 +5793,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young boy sitting on a rug holding a cell phone.",
             "A toddler boy sitting and looking into the camera, holding a remote control in both hands up to cheek, on a woven wool oval rug on a wood floor with toys and furniture around.",
             "A little boy using a remote control and sitting on the floor.",
@@ -5809,7 +5809,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small white mouse sleeping on top of a remote control.",
             "White rodent laying its head on a black controller. ",
             "A white ferret laying its head on a remote control.",
@@ -5825,7 +5825,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A package of tooth brush shaped gum on a table.",
             "There are tooth brush and gum like candies.",
             "Candy shaped like teeth and toothbrushes sit on the empty package.",
@@ -5841,7 +5841,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The baby sits on the furniture holding a toothbrush in his mouth.",
             "The young baby is sticking a tooth brush in his mouth.",
             "A baby is sticking a toothbrush in its mouth.",
@@ -5857,7 +5857,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A infant holding a baby toothbrush in his hand looking at it.",
             "A small baby is holding a white and blue toothbrush.",
             "A child holds a toothbrush in their hand.",
@@ -5873,7 +5873,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The image is a closeup of a computer keyboard.",
             "A close shot of a computer keyboard. ",
             "A keyboard is shown up close to the keys.",
@@ -5889,7 +5889,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A women with a tennis racquet in one hand and a towel in the other.",
             "A woman is holding a tennis racket and a towel.",
             "The woman in pink is holding her tennis racket.",
@@ -5905,7 +5905,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Young boy posing in front of a flying kite in the park",
             "A little boy standing in the grass with a kite in the sky in the background.",
             "A young boy is posing in a large grassy area.",
@@ -5921,7 +5921,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A young boy throwing up a blue card.",
             "A very blurry image of two small children in motion.",
             "A group of children looking up a the person taking the picture.",
@@ -5937,7 +5937,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two black children wearing baseball hats and holding bats.",
             "A boy and girl wearing helmets and holding baseball bats.",
             "Two boys are ready to go play in a baseball game.",
@@ -5953,7 +5953,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pole that has a clock on top of it.",
             "A clock mounted on an outdoor post with Roman numerals.",
             "a clock on a pole saying it is 12:45",
@@ -5969,7 +5969,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pizza cutter is laying next to the pizza.",
             "A pizza cutter lying next to a well baked pizza",
             "Extreme close-up of meet and cheese pizza and cutting wheel.",
@@ -5985,7 +5985,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A tennis player holding a tennis racquet while he serves a tennis ball.",
             "A tennis player throws the ball up to make a serve.",
             "A woman about to serve during a tennis match.",
@@ -6001,7 +6001,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of guys standing behind several covered tables.",
             "A group of boys standing in front of a screen and by table with computers on top.",
             "A group of fraternity students set up audio and video equipment.",
@@ -6017,7 +6017,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man with a glass holding a teddy bear",
             "A man is holding a stuffed animal in his arm",
             "A man in a blue suit with a demonic smirk on his face holding a small brown teddy bear.",
@@ -6033,7 +6033,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A teddy bear sitting on a blue chair.",
             "a tan teddy bear wearing a bow tie sitting on a bed",
             "A beige teddy bear is sitting on a chair.",
@@ -6049,7 +6049,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white teddy bear sitting next to a brown teddy bear.",
             "Two teddy bears are wrapped in a blue ribbon on a red background.",
             "A large stuffed bear sits with a smaller stuffed bear.",
@@ -6065,7 +6065,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two men with hard hats on next to laptops.",
             "Two men in hard hats are by their computers.",
             "Tow men with hardhats and blue t-shirts standing in front of computers together.",
@@ -6081,7 +6081,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The man is curious about what is on the laptop computer.",
             "a woman and man sit in front of white laptop",
             "a person in glasses is using a laptop",
@@ -6097,7 +6097,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman in a yellow jacket standing against a concrete wall.",
             "a person standing near a wall operating a cell phone",
             "A woman in a yellow raincoat consults her cell phone.",
@@ -6113,7 +6113,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Assortment of vegetable being cooked in metal pot.",
             "The fresh vegetables are cooking in the pot. ",
             "Silver metal bowl full of many different vegetables.",
@@ -6129,7 +6129,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An adorable kid walks across the rug holding a phone.",
             "A very cute small child standing on a carpet.",
             "A boy standing on a rug with a cell phone in his hands.",
@@ -6145,7 +6145,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man is in deep conversation holding the telephone",
             "A man talking on the phone in front of a building.",
             "a person talking on a large cell phone",
@@ -6161,7 +6161,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A train station with a large clock on the front of the building.",
             "a short clock tower that covers a walkway as well ",
             "A covered area is made of glass and has a clock.",
@@ -6177,7 +6177,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A picture of children's toy reading story. ",
             "A collection of stuffed animals and a doll that is holding a book.",
             "A doll sitting in front of a book on a couch.",
@@ -6193,7 +6193,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The meal consists of chopped chicken with cheese and brocolli.",
             "A styrofoam plate with shredded chicken and a dish of broccoli with cheese sauce.",
             "a close up of a plate of food on a carpeted floor",
@@ -6209,7 +6209,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a building with a very large clock on the side of it",
             "A clock tower with Roman Numerals and a Sun Dial.",
             "A large clock with an astrological attached to it.",
@@ -6225,7 +6225,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a white vase with a blue and yellow bird",
             "Two white vases on a shelf next to a window.",
             "a couple of vases that are on top of a table.",
@@ -6241,7 +6241,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The young child is cutting up some paper.",
             "There is a boy in a blue pajamas holding a pair of scissors.",
             "A little child wearing blue holds a pair of yellow scissors and some paper.",
@@ -6257,7 +6257,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pair of rusted scissors stuck in a stone sculpture.",
             "A pair of scissors that is a grassy area.",
             "A pair of rusty scissors is standing up",
@@ -6273,7 +6273,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A boy in a straw hat sits with two stuffed bears.",
             "a young boy with a cowboy hat on plays with a stuffed bear",
             "The first picture is blank all the time on purpose.",
@@ -6289,7 +6289,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "HAM AND EGG ON A PANCAKE, WITH A DISH OF YOGURT",
             "some food is laying out on a white plate",
             "Some food that is sitting on a plate on a table.",
@@ -6305,7 +6305,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A group of people sit around a table at a restaurant.  ",
             "A group of people at a dining table in a very large room.",
             "Friends gather around a table for dinner at a nice restaurant.",
@@ -6321,7 +6321,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A kitchen with a white tile wall and a chrome counter with a built in oven.",
             "A kitchen with a stove, shelves and various cabinets.",
             "The kitchen has stainless steel appliances with only one white door. ",
@@ -6337,7 +6337,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man standing in a kitchen while closing a cupboard door.",
             "A man standing in kitchen surrounded by items.",
             "A kitchen area with a cooler and container stacked on the floor and a man getting an item out of a cabinet.",
@@ -6353,7 +6353,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Cooking utensils in a glass next to an oven.",
             "A bowl with kitchen utensils sits next to the stove",
             "Some cooking utensils are sitting in a pitcher.",
@@ -6369,7 +6369,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a fridge and a sink in a home kitchen",
             "A stove standing next to a fridge freezer ",
             "Small kitchen with silver appliances inside of it. ",
@@ -6385,7 +6385,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with a sink, toilet, and vanity.",
             "tiled bathroom with a couple towels hanging up",
             "An old bathroom with a black marble sink.",
@@ -6401,7 +6401,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large empty bathroom with a walk in shower tub.",
             "A large bathroom that is very well kept",
             "A bathroom that has two sinks and a shower.",
@@ -6417,7 +6417,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a parking area for motorcycles and bicycles along a street",
             "A row of bikes and motorbikes line the street. ",
             "A crowded city street with a row of bicycles ",
@@ -6433,7 +6433,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A marble tiled bathroom with double sinks and wooden cabinets",
             "A bathroom has gold wall and brown counters.",
             "A bathroom with a small TV screen next to the bathtub.",
@@ -6449,7 +6449,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with white fixtures and green flooring",
             "A bathroom area with toilet, sink and tub.",
             "A fisheye lens photograph of a residential bathroom",
@@ -6465,7 +6465,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "This bathroom has a toilet that sits back in a small niche and a shower with sliding glass doors.",
             "A toilet is sitting in a home bathroom",
             "THERE IS A TOILET IN THE BATHROM AND A SHOWER IN THERE ",
@@ -6481,7 +6481,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A sink with a toothbrush holder, soap and a mirror around it. ",
             "A sink of a bathroom with things on the counter ",
             "A bottle of soap is sitting on a bathroom sink.",
@@ -6497,7 +6497,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The bath room is clean with brown tile, white sink and large mirror.",
             "A public bathroom area with orange tile walls.",
             "A sink sits in a public bathroom with bright orange tile.",
@@ -6513,7 +6513,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A toilet sitting outside a building in an alley.",
             "A broken toilet sitting outside of a motel room.",
             "The toilet is set on the sidewalk near a building.",
@@ -6529,7 +6529,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An odd bathroom with stone walls, and two rolls of toilet paper",
             "A bathroom with a toilet paper holder on each side of the toilet.",
             "A toilet facility in a stone cell on a plank floor.",
@@ -6545,7 +6545,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A display of a toilet and sink in a store. ",
             "Toilet and sink on display in a furniture store",
             "A toilet with a sink on the back is displayed.",
@@ -6561,7 +6561,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a close up of a toilet in a bath room",
             "A toilet that is sitting in tile on the wall.",
             "The bathroom toilet is clean and ready for customers to use. ",
@@ -6577,7 +6577,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white toilet in a very small bathroom.",
             "A picture of a toilet taken from above it.",
             "A toilet with the lid opened placed beside a shelf.",
@@ -6593,7 +6593,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Public toilet with the lid up and a garbage can nearby. ",
             "A toilet is seen from above with the lid up.",
             "A white toilet in a bathroom next to a trash can.",
@@ -6609,7 +6609,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A BRICK TOWER WITH A BIG CLOCK IN THE MIDDLE OF IT.",
             "A large building with a metal clock on the front.",
             "A clock is shown on the side of a building.",
@@ -6625,7 +6625,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A filthy sink and toilet are seen from above.",
             "A toilet with a wooden cover, and a dirty sink.",
             "The sink next to the small toilet is very dirty.",
@@ -6641,7 +6641,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bathroom with white tile and a beige toilet.   ",
             "A view form the top of a bathroom of a toilet.",
             "Overhead picture of a toilet in a white stall.",
@@ -6657,7 +6657,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "This is a public bathroom with  soap dispensers installed on the wall.",
             "Three white sinks in a bathroom under mirrors",
             "Three sinks and a mirror in a public restroom.",
@@ -6673,7 +6673,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A silver motorcycle with many lights parked on the street.",
             "A flashy motorcycle parked on the side of the street.",
             "Old style motorcycle with many lights parked on the street.",
@@ -6689,7 +6689,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A motorcycle parked next to a few bicycles.",
             "The Honda motorcycle is parked beside of bikes.",
             "a mortor cycle parked next to some regular bikes",
@@ -6705,7 +6705,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The banana is laying next to an almost empty bowl.",
             "a bowl of food next to a very close banana",
             "A banana and a nearly empty bowl of food resting on top of a table.",
@@ -6721,7 +6721,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A meal on an airplane of cereal, milk, and fruit.",
             "A tray covered in food on top of a table.",
             "An airline lunch tray filled with healthy food.",
@@ -6737,7 +6737,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A big screen TV in a fancy looking Hotel room",
             "A bedroom with a bed dresser and large screen television.",
             "a bedroom with a bed and a flat screen television ",
@@ -6753,7 +6753,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two giraffe standing next to each other in a forest.",
             "Giraffes need their long necks to get to the tender leaves up high.",
             "Two giraffes are standing in the middle of some vegetation.",
@@ -6769,7 +6769,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A giraffe and zebras mingle as cars drive out of an animal park.",
             "a giraffe standing in the middle of some zebras ",
             "this is a giraffe and some zebras being watched",
@@ -6785,7 +6785,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A small red plane sitting on top of an airport tarmac.",
             "Person examining red plane out on the runway",
             "A small red plane sitting in a open field.",
@@ -6801,7 +6801,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A airliner pulled up to the gate for loading and unloading of passengers.",
             "An airplane parked on the tarmac at an airport ",
             "An airplane is on the pavement at the airport.",
@@ -6817,7 +6817,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A busy airport with planes parked  on the runway",
             "An airplane on a tarmac has several workers near it in safety vests.",
             "Two passenger jets are on the tarmac by the airport.",
@@ -6833,7 +6833,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A gray day at a park with a stone bench.",
             "A sidewalk sitting near a green next to a body of water.",
             "A tree that is sitting in the grass.",
@@ -6849,7 +6849,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two giraffe standing next to each other in a field.",
             "Two giraffes are climbing a hill with mountains in the background.  ",
             "Two giraffes standing in a brush covered area.",
@@ -6865,7 +6865,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A traffic light and many cars on a road.",
             "Ground level view of wide street intersection with line of waiting cars.",
             "A busy intersection where several vehicles wait at a traffic light",
@@ -6881,7 +6881,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "there is a large concrete sign small buildings behind it",
             "A sign to a big place that's next to a fire hydrant. ",
             "A sign at the entrance of an establishment with cactus plants by it.",
@@ -6897,7 +6897,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A herd of animals laying down in a lush green field.",
             "THERE ARE ANIMALS IN THE GRASS LYING AROUND",
             "a group of animals laying around in the grass ",
@@ -6913,7 +6913,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An elephant with a man and three children on its back drinking water in the jungle.",
             "A man riding on and elephants neck and guiding it while children ride on a seat behind him.",
             "a group of people ride atop of an elephant ",
@@ -6929,7 +6929,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A view of someone in the sky parachuting to the ground.",
             "close up of a paper with type on it and a blue sky",
             "there is a kite that is being flown high in the sky",
@@ -6945,7 +6945,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Street signage on post near roadway in city environment.",
             "a no skate boarders sign on the side of the road ",
             "No skateboarding, littering, and parking street signs ",
@@ -6961,7 +6961,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a couple of giraffes eating out of a basket",
             "A couple of giraffe standing next to a pole.",
             "Two giraffes that are eating some hay out of a basket.",
@@ -6977,7 +6977,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a man is standing in the woods wearing a hat and glasses",
             "A man in sunglasses wears a grass tie and hat.",
             "A man wearing a woven crown and tie.",
@@ -6993,7 +6993,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A black train car with a group of men standing on the back of it.",
             "People are standing and looking out of the caboose of a train.",
             "A group of people standing on the caboose of a traveling train.",
@@ -7009,7 +7009,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large train is coming down the track between a beautiful mountain.",
             "Dusty train passing through a dry mountain valley.",
             "A train traveling between two very large rocky mountains.",
@@ -7025,7 +7025,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A stop sign at the intersection of Lyndon Ave and South.",
             "A road and stop sign at an intersection by a large tree.",
             "A stop sign in foreground of a tree in fall",
@@ -7041,7 +7041,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A stop sign posted in a foreign language\n",
             "A stop sign in Arabic by a body of water.",
             "Foreign stop sign, possibly in Sanskrit or Cambodian script, with nice tree and water background, off-white property wall typical of India or southeast Asia.",
@@ -7057,7 +7057,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a wall with a bunch of graffiti on it",
             "A graffiti covered wall and parking meter are seen in this image.",
             "A parking meter has graffiti on it near a graffiti wall.",
@@ -7073,7 +7073,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two trucks that are sitting in the street.",
             "A blue delivery truck driving down a street.",
             "People walking past buildings and trucks on a cloudy day.",
@@ -7089,7 +7089,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A cat sleeping next to a large white teddy bear wearing birthday hat.",
             "A cat sleeping against a stuffed polar bear.",
             "A black and white cat sleeps next to a stuffed bear.",
@@ -7105,7 +7105,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A old truck with a busted window in the tall bushes.",
             "a rusty old truck sitting in an overgrown field ",
             "A rusted out truck parked next to some yellow flowers.",
@@ -7121,7 +7121,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man milking a cow during the day.",
             "A man milking a brown and white cow in barn.",
             "The guy with the white shirt and baseball cap is milking the cow.",
@@ -7137,7 +7137,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A harbor filled with boats floating on water.",
             "A parade of people in boats on the river.",
             "Many people on boats in the water next to a city.",
@@ -7153,7 +7153,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An elephant stands in the grass staring out.",
             "A large gray elephant stands in the grass.",
             "An elephant with tusks standing in the middle of a large field area with green grass and trees.",
@@ -7169,7 +7169,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Some colorful umbrellas somewhere in a shaded area during a sunny day.",
             "Colorful umbrellas rest on the ground at a market.",
             "Large, colorful paper umbrellas are propped up along the porch.",
@@ -7185,7 +7185,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The ocean inlet is a favorite place for boaters.",
             "A cruise ship travelling out of an expansive harbor.",
             "Boats are traveling in the large open water.",
@@ -7201,7 +7201,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a big umbrella sitting on the beach ",
             "An umbrella is at the beach tilted over",
             "An umbrella sitting on top of a sandy beach near the ocean.",
@@ -7217,7 +7217,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A person standing on top of a beach holding an umbrella.",
             "The person is walking on the beach with her umbrella up.",
             "The woman with an umbrella watches many people in the ocean.",
@@ -7233,7 +7233,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "people on the street near a sea with waters",
             "People are seated at an outdoor restaurant by the water",
             "a bunch of people that are under a umbrella",
@@ -7249,7 +7249,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A large teddybear float is on snow skis.",
             "A white teddy bear posed on skis with ski poles.",
             "a stuffed bear with goggled on wearing snow skies ",
@@ -7265,7 +7265,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A dog sitting on a chair underneath a painting.",
             "A black and brown large dog sits on an upholstered chair.",
             "A dog is sitting on an armchair next to a fridge.",
@@ -7281,7 +7281,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An otter investigates two frisbees that are near it.",
             "An otter sitting next to two Frisbee's on a rock.",
             "An adorable seal laying next to a yellow and pink frisbee.",
@@ -7297,7 +7297,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Riding a horse through a field at dusk.",
             "A person riding a horse through a dry grass covered field.",
             "a person riding a horse though a field ",
@@ -7313,7 +7313,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A zebra looks away from the camera at the zoo.",
             "A zebra is standing behind a chain link fence.",
             "a zebra standing next to a wire beside a chain link fence",
@@ -7329,7 +7329,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two large horses grazing in a large field.",
             "Two brown horses grazing the grass in a field. ",
             "A pair of horses graze in a field with trees.",
@@ -7345,7 +7345,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A pile of fresh produce sitting inside of a store under a scale.",
             "Most store produce departments are equipped with weight scales.",
             "this is fresh fruit sitting in crates together",
@@ -7361,7 +7361,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little boy in mid swing at a baseball",
             "A young batter swings during a Little League game.",
             "A person taking a swing at a  baseball on the field",
@@ -7377,7 +7377,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A blue plate with a green salad on top of it.",
             "We are looking at a plate full of salad.",
             "A plate holds a large salad with broccoli.",
@@ -7393,7 +7393,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A white table with a laptop computer on it.",
             "A desk with a computer and other items.",
             "a laptop sitting on a table, with a beer and tv in background.",
@@ -7409,7 +7409,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A crowd of people shopping at a farmers market filled with fruit and vegetables.",
             "People walking in a market with apples in crates.",
             "many fruits in baskets with buildings in the background",
@@ -7425,7 +7425,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A piece of meat on a plate next to broccoli.",
             "Meat and broccoli are sitting on a plate.",
             "A dish with salmon, broccoli, and something yellow.",
@@ -7441,7 +7441,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "little dude shredding the gnar on flat ground",
             "A young child riding a black skateboard ",
             "A picture of a person on his skateboard.",
@@ -7457,7 +7457,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Hot dog on a roll with cheese, onions, and herbs.",
             "A sandwich has cilantro, carrots, and other vegetables.",
             "A hotdog completely loaded with onions and leaves",
@@ -7473,7 +7473,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A table topped with fresh fruits and vegetables.",
             "Several snacks including fruit and vegetables arranged on a countertop.",
             "an apple, orange, carrots, broccoli, and other food",
@@ -7489,7 +7489,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man is trying to pull off a skateboarding trick on his ramp. ",
             "A person is on a skateboard on the top of a quarter pipe.",
             "A man riding a skateboard up the side of a ramp.",
@@ -7505,7 +7505,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a man cts into a small cake with his sharp knife",
             "a man cutting a slice of cake with the knife",
             "Woman slicing fruit cake on tray of table with nice hands",
@@ -7521,7 +7521,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man on a skateboard performing a trick.",
             "A man flying through the air on top of a skateboard.",
             "A person on a skateboard in the air at a skate park.",
@@ -7537,7 +7537,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man who is riding a skateboard down the street.",
             "A boy riding on a skateboard in the street.",
             "A person on a skate board riding the down the street.",
@@ -7553,7 +7553,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A girl sitting on a stone wall and eating.",
             "A young woman is posing for a camera.",
             "A woman holding food in a napkin and posing for a bite.",
@@ -7569,7 +7569,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a woman standing near glass looking at the preparation of fresh donuts",
             "A person that is looking at some donuts.",
             "a woman with her hands on the glass looking at donuts",
@@ -7585,7 +7585,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man holding a half eaten chocolate donut",
             "A man is eating a donut while using the computer in his bathrobe.",
             "A man in a robe eating a chocolate donut.",
@@ -7601,7 +7601,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "This skate boarder is leaning back on his board. ",
             "Smiling person on a snow board tilting to the side.",
             "S snowboarder is leaning on her snow board.",
@@ -7617,7 +7617,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A counter filled with fried donuts line up in rows.",
             "Rows of doughnuts are on a counter as several are on wax paper.",
             "a bunch of donuts on a tray and more coming out",
@@ -7633,7 +7633,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a teddy bear shaped cake resting on a cutting board",
             "The cake is shaped like a teddy bear.",
             "A teddy bear cake with a candle and sparklers.",
@@ -7649,7 +7649,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A plate holding a grilled cheese sandwich and bowl of soup.",
             "A bowl of tomato soup is next to grilled cheese.",
             "a plate with a bowl of  tomato soup and two halves of a grilled cheese sandwich.",
@@ -7665,7 +7665,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A plate topped with two grilled sandwiches and a knife.",
             "Two toasts in a plate with a knife and a fork.A pipe for smoking on the table.",
             "A pipe and a plate of food on a table.",
@@ -7681,7 +7681,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Man laying on bed with shirt open looking into device for picture.",
             "A may laying in on a bed with his right breasteses hanging out.",
             "Man laying down on a bed with his shirt open. ",
@@ -7697,7 +7697,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A laptop computer sitting on a bed by someones feet.",
             "A lap top is on a bed near a flower and some pictures.",
             "A blurry picture of two people watching a laptop.",
@@ -7713,7 +7713,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bed in a ten with a colorful ceiling.",
             "a black shirt on a hanger blue curtains a bed and pillow",
             "Child's bed and colorful quilt surrounded by blue plastic walls.",
@@ -7729,7 +7729,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A bed with a blanket and pillows on top of it.",
             "an image of a bedroom setting with a bed and bench",
             "A bedroom with a bed, desk, chair and lamps. ",
@@ -7745,7 +7745,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "An uncut pizza sits on a serving plate",
             "There is a large pizza on a plate",
             "A pizza and a person with a pizza cutter on a blue table.",
@@ -7761,7 +7761,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "The monitor is displaying a website for iTV.",
             "A stuffed animal sits in front of a computer.",
             "The teddy bear is facing toward the computer keyboard.",
@@ -7777,7 +7777,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A hotel room complete with a bed, desk and television.",
             "A picture of a tv that is on a shelf.",
             "A small hotel room with a TV and a wooden desk.",
@@ -7793,7 +7793,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A woman in a short pink skirt holding a tennis racquet.",
             "A woman is standing while holding a tennis racket.",
             "A female tennis player is positioning herself for her next move.",
@@ -7809,7 +7809,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "There are people playing a game of tennis.",
             "Group of men playing on a tennis court with crowd watching. ",
             "A group of people standing on a court holding racquets.",
@@ -7825,7 +7825,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A close up of a tooth brush and a blurred background of a man in a blue jacket facing the opposite direction. ",
             "A toothbrush with an out-of-focus background behind it.",
             "Blue and white toothbrush in focus in front of a man.",
@@ -7841,7 +7841,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A circuit board sitting on top of a map.",
             "Remote with exposed electrical units with wires and keyboard",
             "A keyboard, a remote control, and two circuit boards with wires, all on top of a map.",
@@ -7857,7 +7857,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A man holding a tooth brush up to his face.",
             "Man in red shirt eating something that is green.",
             "A man brushing his teeth outside his car.",
@@ -7873,7 +7873,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a living room with a brown couch a table and a black cabinet",
             "Photo of a living room with a TV on the floor  and one on a stand, a person standing outside the door way.",
             "The man is going to the door to let his date in.",
@@ -7889,7 +7889,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A living room has a couch and a rustic chest for a coffee table.",
             "A PHOTO OF A LIVING ROOM WITH COUCHES AND A TABLE ",
             "The couch is tidy but empty of people.",
@@ -7905,7 +7905,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Two children are near a sink and one has a red toothbrush.",
             "Two children are brushing their teeth at the sink",
             "Two children standing at the sink brushing their teeth. ",
@@ -7921,7 +7921,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A little boy sleeping on a couch holding a Wii controller.",
             "A sleeping child holding a Wii controller in hand.",
             "A toddler sleeping on a couch with a video game controller in his hand.",
@@ -7937,7 +7937,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "A room with some chairs and a bookshelf.",
             "A room with a brick wall and several chairs around a black coffee table.",
             "A couple of chairs in a small room.",
@@ -7953,7 +7953,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "a woman and a kid playing with some wii motes",
             "Woman and boy standing playing a video game in front of them.",
             "a woman and kid playing a game on the wii",
@@ -7969,7 +7969,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "Woman standing in living room using video game controls.",
             "A woman standing in her living room playing Wii.",
             "There is a woman that is ayi g with the wii in her room",
@@ -7985,7 +7985,7 @@
         ]
     },
     {
-        "references": [
+        "reference": [
             "three boys are enjoying a video game at home",
             "three asian friends are playing games on the wii",
             "Three young men are playing a video game.",
