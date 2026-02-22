@@ -30,7 +30,7 @@ The dataset is organized in a CSV file with the following columns:
 2. Checkout to dev branch <br>
 ```git checkout dev```
 
-3. Create a environment of your choice and activate it. <br>
+3. Create an environment of your choice and activate it. <br>
 
 4. Navigate to the directory <br>
 ```cd text-paraphraser```
@@ -47,9 +47,9 @@ This will save the trained model at ```src/trained_model``` <br>
 
 7. Add HUGGINGFACE_TOKEN to ```.env``` file. <br>
 
-8. Upload the model to huggingface so that it becomes accessible form anywhere. <br>
+8. Upload the model to HuggingFace so that it becomes accessible from anywhere. <br>
 ```python3 upload_to_hub.py```
 
-9. To run the inference use the script file ```inference.py```. <br>
+9. To run the inference, use the script file ```inference.py```. <br>
 ```python3 inference.py```
 
